@@ -8,7 +8,7 @@ Vamos pensar nos benefícios desse aprendizado!"
 
 </div>
 
-### Atividade proposta no Fichário:
+### Atividade proposta no Fichário da Agenda 15:
 
 Após seguir o passo a passo na elaboração do PROJETO CPS indicado no material dessa agenda, você dará continuidade nesse projeto para atender a seguinte solicitação do cliente:
 
@@ -29,5 +29,25 @@ Dicas:
 - Utilize como ícone fa fa-address-card no navBar.
 
 - Para os efeitos, utilizar w3-hover-opacity ou acessar o link https://www.w3schools.com/w3css/w3css_animate.asp   para ver mais tipos de animações.
+
+Obs.: Os dados para serem inseridos na página, bem como as fotos, podem ser fictícios!
+
+<hr>
+
+### Atividade proposta no Fichário da Agenda 16:
+
+O Centro Paula Souza aprovou a forma como você criou a nova seção “Docentes”, sendo apontada apenas uma observação: Como há na instituição uma grande quantidade de docentes, a página ficaria muito extensa.
+
+Com o conhecimento adquirido nesta agenda, altere a distribuição das informações na página, de forma padronizada, inserindo um Slideshow com a foto de cada docente, com seu nome e uma breve descrição de sua formação e atuação profissional (currículo) na seção Docente.
+
+Atenção:
+
+Fique atento para colocar o link correto das imagens na codificação da página e, caso a opção seja usar as imagens localmente no dispositivo, você deve criar uma pasta  contendo o arquivo HTML da atividade e as devidas imagens. ENVIAR ESSA PASTA COMPACTADA.
+
+Dicas:
+
+- Utilize o slideshow manual;
+- No botão coloque a cor w3-cyan para uma melhor visualização e padronização do projeto.
+- Insira uma página no projeto chamada Galeria, para armazenar as imagens.
 
 Obs.: Os dados para serem inseridos na página, bem como as fotos, podem ser fictícios!
